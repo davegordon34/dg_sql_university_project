@@ -1,0 +1,14 @@
+INSERT INTO professors(professor_name)
+VALUE ("English");
+
+INSERT INTO professors(professor_name)
+VALUE ("Mathmatics");
+
+INSERT INTO professors(professor_name)
+VALUE ("Science");
+
+INSERT INTO professors(professor_name)
+VALUE ("History");
+
+INSERT INTO professors(professor_name)
+VALUE ("Art");

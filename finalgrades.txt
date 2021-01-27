@@ -1,0 +1,71 @@
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("90", 1, 1);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("87", 1, 13);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("79", 1, 5);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("82", 1, 9);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("88", 2, 2);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("83", 2, 6);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("78", 2, 13);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("75", 2, 15);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("85", 3, 1);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("92", 3, 6);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("87", 3, 14);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("79", 3, 16);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("95", 4, 3);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("81", 4, 7);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("74", 4, 10);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("79", 4, 15);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("88", 5, 2);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("86", 5, 8);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("78", 5, 11);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("75", 5, 16);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("87", 6, 4);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("83", 6, 7);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("77", 6, 14);
+
+INSSERT INTO grades(grade_final, grade_student_id, grade_course_id)
+VALUES("76", 6, 15);

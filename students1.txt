@@ -1,0 +1,77 @@
+INSERT INTO students(student_name)
+VALUES ("Alex");
+
+INSERT INTO students(student_name)
+VALUES ("Brady");
+
+INSERT INTO students(student_name)
+VALUES ("Connor");
+
+INSERT INTO students(student_name)
+VALUES ("Dallen");
+
+INSERT INTO students(student_name)
+VALUES ("Eric");
+
+INSERT INTO students(student_name)
+VALUES ("Frank");
+
+INSERT INTO students(student_name)
+VALUES ("Gerald");
+
+INSERT INTO students(student_name)
+VALUES ("Hector");
+
+INSERT INTO students(student_name)
+VALUES ("Ivan");
+
+INSERT INTO students(student_name)
+VALUES ("Jamie");
+
+INSERT INTO students(student_name)
+VALUES ("Karen");
+
+INSERT INTO students(student_name)
+VALUES ("Laura");
+
+INSERT INTO students(student_name)
+VALUES ("Mike");
+
+INSERT INTO students(student_name)
+VALUES ("Nadine");
+
+INSERT INTO students(student_name)
+VALUES ("Olga");
+
+INSERT INTO students(student_name)
+VALUES ("Peter");
+
+INSERT INTO students(student_name)
+VALUES ("Queenie");
+
+INSERT INTO students(student_name)
+VALUES ("Rodger");
+
+INSERT INTO students(student_name)
+VALUES ("Steven");
+
+INSERT INTO students(student_name)
+VALUES ("Thomas");
+
+INSERT INTO students(student_name)
+VALUES ("Unser");
+
+INSERT INTO students(student_name)
+VALUES ("Victor");
+
+INSERT INTO students(student_name)
+VALUES ("Wanda");
+
+INSERT INTO students(student_name)
+VALUES ("Xander");
+
+INSERT INTO students(student_name)
+VALUES ("Yasmine");
+
+INSERT INTO students(student_name)
+VALUES ("Zoe");

@@ -1,0 +1,59 @@
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("English 101", 1);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("English 102", 1);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("English 201", 1);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("English 202", 1);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Math 101", 2);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Math 102", 2);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Math 201", 2);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Math 202", 2);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Physics 101", 3);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Physics 102", 3);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Geology 101", 3);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Geology 102", 3);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("US History 101", 4);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Civil Rights 201", 4);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("History of Civil War 301", 4);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Colonial History", 4);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Art 101", 5);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Art 102", 5);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Photography 101", 5);
+
+INSERT INTO courses(course_name, course_professor_id)
+VALUES ("Art History 101", 5);
